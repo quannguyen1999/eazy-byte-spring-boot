@@ -1,5 +1,5 @@
 build:
-  version: "2.0"
+  version: "8.0"
 accounts:
   message: "Welcome to quan accounts related QA APIs"
   contactDetails:

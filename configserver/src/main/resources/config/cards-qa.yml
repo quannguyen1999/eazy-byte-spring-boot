@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to quan cards related QA APIs"
+  contactDetails:
+    name: "quan Ray - QA Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - 0708821228

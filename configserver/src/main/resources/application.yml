@@ -8,5 +8,13 @@ spring:
       server:
         native:
           search-locations: "classpath:/config"
+#        git:
+#          url: "https://github.com/quannguyen1999/eazy-byte-config.git"
+#          default-label: main
+#          timeout: 5
+#          clone-on-start: true
+#          force-pull: true
+encrypt:
+  key: "4512312312312kla8181"
 server:
   port: 8071

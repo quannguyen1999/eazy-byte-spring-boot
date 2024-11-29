@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to quan loans related Local APIs"
+  contactDetails:
+    name: "quan Ray - local Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - 0708821228

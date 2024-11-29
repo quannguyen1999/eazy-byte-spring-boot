@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to quan cards related Prod APIs"
+  contactDetails:
+    name: "quan Ray - prod Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - 0708821228
