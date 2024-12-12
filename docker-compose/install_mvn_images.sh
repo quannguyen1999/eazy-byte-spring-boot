@@ -6,6 +6,7 @@ folders=(
   "cards"
   "configserver"
   "loans"
+  "eurekaserver"
 )
 
 echo "move one step folder folder"
