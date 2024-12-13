@@ -46,3 +46,8 @@ info:
     name: "accounts"
     description: "Eazy Bank Accounts Application"
     version: "1.8.0"
+logging:
+  level:
+    com:
+      example:
+        accounts: DEBUG
